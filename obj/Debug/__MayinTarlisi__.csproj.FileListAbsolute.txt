@@ -1,0 +1,36 @@
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe.config
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.pdb
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.csprojResolveAssemblyReference.cache
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Form1.resources
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Properties.Resources.resources
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.csproj.GenerateResource.Cache
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.exe
+c:\users\cihan\documents\visual studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.MayinTarlasiOyunEkrani.resources
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Skorlar.resources
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe.config
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.exe
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.pdb
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.pdb
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.csprojResolveAssemblyReference.cache
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Form1.resources
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.MayinTarlasiOyunEkrani.resources
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Properties.Resources.resources
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Skorlar.resources
+C:\Users\cihan\Desktop\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.csproj.GenerateResource.Cache
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe.config
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.exe
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.pdb
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.pdb
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.csprojResolveAssemblyReference.cache
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Form1.resources
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.MayinTarlasiOyunEkrani.resources
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Properties.Resources.resources
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.Skorlar.resources
+C:\Users\cihan\Desktop\New folder (9)\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.csproj.GenerateResource.Cache
+C:\Users\cihan\Desktop\Portfolyo\__MayinTarlisi__\__MayinTarlisi__\bin\Debug\__MayinTarlisi__.exe.config
+C:\Users\cihan\Desktop\Portfolyo\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.exe
+C:\Users\cihan\Desktop\Portfolyo\__MayinTarlisi__\__MayinTarlisi__\obj\Debug\__MayinTarlisi__.pdb
